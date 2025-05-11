@@ -51,12 +51,11 @@
 }
 
 .contacto {
-  font-size: 0.9rem; /* Más chico */
+  font-size: 0.9rem; 
   color: #555;
   margin-bottom: 10px;
 }
 
-/* Menús desplegables */
 .desplegables {
   margin-top: 20px;
   margin-bottom: 80px;
